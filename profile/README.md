@@ -21,3 +21,4 @@ NSE stage-analysis screener. Minervini SEPA rules on Indian equities — VCP det
 ---
 
 Built by [@ShreyPatel4](https://github.com/ShreyPatel4).
+Co-Built by [@jaypatel15406](https://github.com/jaypatel15406).
